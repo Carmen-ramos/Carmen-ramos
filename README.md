@@ -16,15 +16,11 @@
  If you have any idea to develop, let's talk about it!
  
 
-📫 How to contact me:
 
-<a href="mailto:carmen.rama91@gmail.com" target="blank"><img alt="Carmen Ramos gmail" src="https://simpleicons.org/icons/gmail.svg" height="50" width="50"></a>
+Where you cand find me:
+</br>
 
+<a href="https://www.linkedin.com/in/carmen-ramart/"><img img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0e76a8.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="mailto:carmen.rama91@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<a href="https://linkedin.com/in/carmen-ramart" target="blank"><img alt="Carmen Ramos Linkedin" src="https://img.shields.io/badge/linkedin-0e76a8.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
-
-<a href="mailto:carmen.rama91@gmail.com" target="blank"><img alt="Carmen Ramos gmail" src="https://camo.githubusercontent.com/3018aa75e42c9bbc0071e3023d7b545af4166e09e8e4ac8d24e73d90ed79704a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d7265642e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/gmail-red.svg?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style=" width= 30 height=30">
-
-<a href="https://twitter.com/CM_Ramart" target="blank">
-<img alt="Twitter" src="https://camo.githubusercontent.com/e1c2fd3bcd4ed13889ed78d1e814261a7cfbc79ae826198b7813850b15a8d956/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d2532333144413146322e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white" style="max-width:100%;"/></a>
-
+Follow me on <a href="https://twitter.com/CM_Ramart"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
