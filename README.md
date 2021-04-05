@@ -16,17 +16,22 @@ I'm Carmen,a junior developer front end. I´ve recently finished a bootcamp in A
 I’m currently working on personal projects and I’m looking to collaborate on Open Source projects.
  If you have any idea to develop, let's talk about it! -->
 ¡Hola a todo el mundo! 
-Soy Carmen una publicista reconvertida en programadora frontend gracias a Adalab.
+Soy Carmen, una publicista reconvertida en programadora frontend gracias a Adalab.
 Actualmente estoy buscando mi primera experiencia laboral, y mientras llega sigo formándome trabajando en mis propios proyectos. 
 
-Me considero una persona que me implico 100% en todo lo que hago, intento preveer los posibles problemas y tener la respuestas por adelantado. Me considero una persona de recursos y muy resolutiva.
-Creo firmemente en el trabajo en equipo y en la retroalimentación, por lo que me encantaría participar en proyectos OpenSource.  
+Me implico 100% en todo lo que hago, intento preveer los posibles problemas y tener la respuestas por adelantado. Me considero una persona de recursos y muy resolutiva.
+Creo firmemente en el trabajo en equipo y en el sentimiento de comunidad, por lo que me encantaría participar en proyectos Open source.  
     
-Let's code!
+Algo un poquito más personal: bailar y hacer senderismo son mis terapias para el estrés diario. 
 
-Donde puedes encontrarme:
+El humor como motor de vida. 
+
+
+Si quieres ponerte en contacto conmigo, puedes hacerlo en:
 
 <a href="https://www.linkedin.com/in/carmen-ramart/"><img img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0e76a8.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="mailto:carmen.rama91@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <h6> Sígueme </h6> <a href="https://twitter.com/CM_Ramart"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+
+Let's code!
