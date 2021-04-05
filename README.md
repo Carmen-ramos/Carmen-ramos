@@ -1,15 +1,10 @@
 ### Hi there 👋
 
- 🔭 I’m currently working on ...
- 🌱 I’m currently learning ...
- 👯 I’m looking to collaborate on Opensource projects. 
- 🤔 I’m looking for help with ...
- 💬 Ask me about ...
- 📫 How to reach me:
- - https://www.linkedin.com/in/carmen-ramart/
- - https://twitter.com/CM_Ramart
+ 🔭 I’m currently working on personal projects with JavaScript, HTML5, React. I’m looking to collaborate on Open Source projects. 
  
- ⚡ Fun fact: ...
+ 
+ 
+ ##Tech tools
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?logo=sass&logoColor=white)
@@ -23,6 +18,9 @@
 ![GIT](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-%234A154B?logo=Slack&logoColor=white)
 
+📫 How to reach me:
+ - https://www.linkedin.com/in/carmen-ramart/
+ - https://twitter.com/CM_Ramart
 <!--
 **Carmen-ramos/Carmen-ramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
