@@ -16,10 +16,13 @@ I'm Carmen,a junior developer front end. I´ve recently finished a bootcamp in A
 I’m currently working on personal projects and I’m looking to collaborate on Open Source projects.
  If you have any idea to develop, let's talk about it! -->
 ¡Hola a todo el mundo! 
+
 Soy Carmen, una publicista reconvertida en programadora frontend gracias a Adalab.
+
 Actualmente estoy buscando mi primera experiencia laboral, y mientras llega sigo formándome trabajando en mis propios proyectos. 
 
 Me implico 100% en todo lo que hago, intento preveer los posibles problemas y tener la respuestas por adelantado. Me considero una persona de recursos y muy resolutiva.
+
 Creo firmemente en el trabajo en equipo y en el sentimiento de comunidad, por lo que me encantaría participar en proyectos Open source.  
     
 Algo un poquito más personal: bailar y hacer senderismo son mis terapias para el estrés diario. 
