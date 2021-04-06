@@ -1,6 +1,6 @@
 
 ## Welcome to my Github
-***
+
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?logo=sass&logoColor=white)
@@ -26,6 +26,7 @@ He llegado al mundo de la programación para quedarme.
 
                                                              Let's code together!  
 <hr/>
+
 ### Conóceme mejor:
 
 Soy polivalente, creativa, apasionada, valiente y viajera.
@@ -34,7 +35,7 @@ Me implico 100% en todo lo que hago y me considero una persona de recursos y muy
 
 Bailar y hacer senderismo son mis terapias para el estrés diario. 
 
-**El humor como motor de vida. 
+**El humor como motor de vida**. 
 
 ### Qué he aprendido:
 - Maquetación web: HTML5, CSS3, Flexbox, CSS Grid, responsive design, SASS, Bootstrap
