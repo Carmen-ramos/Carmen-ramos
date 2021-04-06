@@ -1,6 +1,7 @@
 
 (page in progress)
 ### Welcome to my Github
+***
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?logo=sass&logoColor=white)
@@ -16,24 +17,36 @@ I’m currently working on personal projects and I’m looking to collaborate on
 
 ¡Hola a todo el mundo! 
 
-Soy Carmen, una publicista reconvertida en programadora front end a través de Adalab.
+Soy Carmen, una publicista reconvertida en programadora front end a través de [Adalab](https://adalab.es/).
+
 Actualmente estoy buscando mi primera experiencia laboral y mientras llega, sigo formándome y trabajando en mis propios proyectos. 
-Creo firmemente en el trabajo en equipo y en el sentimiento de comunidad para aprender unos de otros, por lo que me encantaría participar en proyectos **Open source.
+
+Creo firmemente en el trabajo en equipo y en el sentimiento de comunidad para aprender unos de otros, por lo que me encantaría participar en proyectos **Open source**.
 
 
-### Conóceme un poquito mejor:
----
+## Conóceme mejor:
+
 Me implico 100% en todo lo que hago, intento preveer los posibles problemas y tener la respuestas por adelantado. Me considero una persona de recursos y muy resolutiva.
-Algo un poquito más personal: bailar y hacer senderismo son mis terapias para el estrés diario. 
+
+Me encanta bailar y hacer senderismo son mis terapias para el estrés diario. 
 
 El humor como motor de vida. 
 
+### Habilidades técnicas:
+- Maquetación web: HTML5, CSS3, Flexbox, CSS Grid, responsive design, SASS, Bootstrap
+- JavaScript ES6 y desarrollo de SPAs sencillas con React
+- Manejo del sistema de control de versiones Git
+- Conocimientos básicos de APIs y programación back-end: Node JS, Express y SQL
+- Experiencia en desarrollo de proyectos utilizando Agile y SCRUM
+- Herramientas de desarrollo: Gulp, Visual Studio Code, Terminal, Zeplin
+- Herramientas de trabajo en equipo y comunicación: Slack, Github
 
-<h6>Si quieres ponerte en contacto conmigo, puedes hacerlo en:</h6>
+
+<h5>Si quieres ponerte en contacto conmigo, puedes hacerlo en:</h5>
 
 <a href="https://www.linkedin.com/in/carmen-ramart/"><img img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0e76a8.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="mailto:carmen.rama91@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <h6> Sígueme </h6> <a href="https://twitter.com/CM_Ramart"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
-Let's code!
+# **Let's code!**
