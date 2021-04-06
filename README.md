@@ -1,5 +1,5 @@
 
-### Welcome to my Github
+## Welcome to my Github
 ***
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?logo=css3&logoColor=white)
@@ -24,7 +24,9 @@ Creo firmemente en el trabajo en equipo y en el sentimiento de comunidad para ap
 
 He llegado al mundo de la programación para quedarme.
 
-## Conóceme mejor:
+                                                             Let's code together!  
+<hr/>
+### Conóceme mejor:
 
 Soy polivalente, creativa, apasionada, valiente y viajera.
 
@@ -46,11 +48,12 @@ Bailar y hacer senderismo son mis terapias para el estrés diario.
 ### Qué estoy aprendiendo: 
 - Testing.
 - Back-End
+***
 
-<h4>** Si quieres ponerte en contacto conmigo, puedes hacerlo en: **</h5>
+<h4>Si quieres ponerte en contacto conmigo, puedes hacerlo en:</h4>
 <a href="https://www.linkedin.com/in/carmen-ramart/"><img img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0e76a8.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <a href="mailto:carmen.rama91@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<h6> O a través de </h6><a href="https://twitter.com/CM_Ramart"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<h6> O a través de mi twitter </h6><a href="https://twitter.com/CM_Ramart"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
-## **Let's code!**
+
